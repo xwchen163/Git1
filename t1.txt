@@ -1,2 +1,3 @@
 Git is a Distributed verion control system.
 Git is a free software under the GPL.
+Git tracks changes.
